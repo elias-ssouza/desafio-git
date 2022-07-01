@@ -1,2 +1,2 @@
-# desafio-git
+# Desafio Git
 Desafio de Projeto Git
